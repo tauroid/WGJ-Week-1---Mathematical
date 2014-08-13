@@ -1,0 +1,11 @@
+Formula fighting
+
+- Two players
+- Solve equations to punch other or block
+  - Queue of equations for punch - (5 equations on screen)
+  - One equation for block, refreshes when block completed
+  - Combos for quicker runs - details to sort out
+
+Blocking - third damage
+Not blocking - full damage
+Combo - extra damage and daze
